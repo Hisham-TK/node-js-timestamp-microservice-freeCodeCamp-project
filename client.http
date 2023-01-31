@@ -1,0 +1,8 @@
+GET http://localhost:3000/api/1451001600000 HTTP/1.1
+
+###
+GET http://localhost:3000/api/ HTTP/1.1
+
+###
+GET http://localhost:3000/api/0 HTTP/1.1
+
